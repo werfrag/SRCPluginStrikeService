@@ -1,0 +1,11 @@
+coordinates:
+  red_team:
+    x: 100
+    y: 100
+    z: 100
+    world: world
+  blue_team:
+    x: 200
+    y: 200
+    z: 200
+    world: world

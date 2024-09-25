@@ -1,0 +1,12 @@
+name: PluginStrikeService
+version: '1.0-SNAPSHOT'
+main: me.werfrag.pluginStrikeService.Main
+api-version: '1.20'
+author: werfrag
+commands:
+  duel:
+    description: 'Duella qualcuno'
+    usage: '/duel <nome>'
+  acceptduel:
+    description: 'Accetta una sfida'
+    usage: '/acceptduel'

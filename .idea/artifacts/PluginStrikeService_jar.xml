@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginStrikeService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PluginStrikeService_jar</output-path>
+    <root id="archive" name="PluginStrikeService.jar">
+      <element id="module-output" name="PluginStrikeService.main" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
